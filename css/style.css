@@ -51,7 +51,7 @@ body {
 }
 
 .quiz-container .option:active {
-    background: #6f7d92;
+    background: #fff;
     color: #000;
 }
 
