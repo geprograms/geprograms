@@ -1,10 +1,14 @@
 let quizData = [
     {
-        question: "Does your entity possess concrete goals concrete goals related to gender equality?",
+        question: "Does your organization have specific goals related to gender equality?",
         options: ["yes", "no"]
     },
     {
         question: "Is there any reporting on the level of realization of these goals?",
+        options: ["yes", "no"]
+    },
+    {
+        question: "Does your organization have a document regulating gender equality?",
         options: ["yes", "no"]
     },
     {
@@ -24,7 +28,7 @@ let quizData = [
         options: ["yes", "no"]
     },
     {
-        question: "Do the employees know about these policies?",
+        question: "Does your organization introduce these policies to the employees?",
         options: ["yes", "no"]
     },
     {
@@ -32,15 +36,15 @@ let quizData = [
         options: ["yes", "no"]
     },
     {
-        question: "Is there any training on the theme of bias available for employees and management?",
+        question: "Are there any professional development programs for women in the organization?",
         options: ["yes", "no"]
     },
     {
-        question: "Does HR team take into consideration gender of a candidate?",
+        question: "Is there any training on the theme of gender bias available for employees and management?",
         options: ["yes", "no"]
     },
     {
-        question: "Do you divide roles and positions by gender?",
+        question: "Are recruting procedures unbiased in your organization?",
         options: ["yes", "no"]
     },
     {
