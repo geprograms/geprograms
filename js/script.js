@@ -286,5 +286,3 @@ startBtn.addEventListener("click", () => {
     displayedQuestionNumber = 0;
     createQuestion();
 });
-
-console.log(quizData.length);
